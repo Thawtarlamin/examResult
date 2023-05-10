@@ -1,6 +1,6 @@
-
-    {
-        "years": {
+{
+    "years": [
+        {
             "no": "၁။",
             "name": "ရန်ကုန်တိုင်းဒေသကြီး",
             "cities": [
@@ -419,10 +419,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/ygn/YGN-069.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၂။",
             "name": "မန္တလေးတိုင်းဒေသကြီး",
             "cities": [
@@ -1093,10 +1091,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/mdy/MDY-111.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၃။",
             "name": "နေပြည်တော်",
             "cities": [
@@ -1365,10 +1361,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/npw/NPW-044.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၄။",
             "name": "ဧရာဝတီတိုင်းဒေသကြီး",
             "cities": [
@@ -2753,10 +2747,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/ayy/AYY-230.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၅။",
             "name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
             "cities": [
@@ -3181,10 +3173,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/sgg/SGG-070.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၆။",
             "name": "မကွေးတိုင်းဒေသကြီး",
             "cities": [
@@ -3669,10 +3659,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/mgy/MGY-080.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၇။",
             "name": "ပဲခူးတိုင်းဒေသကြီး",
             "cities": [
@@ -4331,10 +4319,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/bgo/BGO-109.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၈။",
             "name": "တနင်္သာရီတိုင်းဒေသကြီး",
             "cities": [
@@ -4501,10 +4487,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/tni/TNI-027.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၉။",
             "name": "ကချင်ပြည်နယ်",
             "cities": [
@@ -4695,10 +4679,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/kcn/KCN-031.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၀။",
             "name": "ကယားပြည်နယ်",
             "cities": [
@@ -4727,10 +4709,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/kyh/KYH-004.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၁။",
             "name": "ကရင်ပြည်နယ်",
             "cities": [
@@ -4891,10 +4871,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/kyn/KYN-026.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၂။",
             "name": "ချင်းပြည်နယ်",
             "cities": [
@@ -4941,10 +4919,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/chn/CHN-007.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၃။",
             "name": "မွန်ပြည်နယ်",
             "cities": [
@@ -5195,10 +5171,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/mon/MON-041.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၄။",
             "name": "ရခိုင်ပြည်နယ်",
             "cities": [
@@ -5767,10 +5741,8 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/rke/RKE-094.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၅။",
             "name": "ရှမ်းပြည်နယ်",
             "cities": [
@@ -6423,12 +6395,11 @@
                     "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/shn/SHN-108.pdf "
                 }
             ]
-        }
-    },
-    {
-        "years": {
+        },
+        {
             "no": "၁၆။",
             "name": "နိုင်ငံခြား",
             "href": "https://r22n3xyx545fs37s3kz6hjxz6gwjxyw3u2a.s3.ap-southeast-1.amazonaws.com/data/fgn/FGN-01.pdf "
         }
-    }
+    ]
+}
